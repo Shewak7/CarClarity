@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 # CarClarity: PDF-Based Car Information Extraction and Analysis Tool
 
