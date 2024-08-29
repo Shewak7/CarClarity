@@ -39,3 +39,8 @@
 # Database: PyMongo
 # PDF Parsing: PyPDF2
 # NLP: Transformers
+
+## Workflow 
+
+# The Document given by the user will be read using PyPDF2 , if it is PDF file. The text obtained will be classified using spacy which will be helpful for the Car sellers. The obtained JSON detail will be stored in MongoDB for future use. 
+# The Dashboard enables the car sellers to get Statistical Analysis, as well as all the json details can be downloaded.
