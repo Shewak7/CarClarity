@@ -2,6 +2,8 @@
 
 # CarClarity: PDF-Based Car Information Extraction and Analysis Tool
 
+### Video : https://drive.google.com/file/d/1IknwSg99N8OvzW4FaOzzHRIthKsTjdXq/view?usp=drive_link
+
 ## Overview
 
 # CarClarity is a tool designed to extract and analyze key information from car-related PDFs, providing structured insights from unstructured data. 
